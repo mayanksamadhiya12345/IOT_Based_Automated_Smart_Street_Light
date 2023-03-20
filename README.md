@@ -5,9 +5,18 @@
 
 
 # Overview
-in this project we are going to create automated smart street lights by using sensors and we will also use Arduino for Programming purpose
+In this project we have created automated smart street lights by using sensors and we have also used Arduino for Programming purpose....
 <strong>Project Domain</strong> : IOT & Arduino<br />
 
-# Tech Stack
-Internet Of Things, Sensors, Arduino <br />
+# Tech Stack / Hardwares
+Internet Of Things <br />
+
+<strong>LDR</strong><br />
+<strong>IR Sensor</strong><br />
+<strong>LED</strong><br />
+<strong>Arduino</strong><br />
+<strong>WiFi Module (ESP8266)</strong><br />
+<strong>Micro-Controller</strong><br />
+<strong>Registers</strong><br />
+<strong>Jumper Wires</strong><br />
 <strong>Deployed on</strong> : Hardware <br />
