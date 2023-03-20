@@ -1,6 +1,7 @@
 # IOT_Based_Automated_Smart_Street_Light
 
 [Live project link](https://drive.google.com/drive/folders/1tt953U-isnospAcdp96O6VJaSKLLGuL9?usp=sharing) <br />
+[Related Document](https://drive.google.com/drive/folders/1nTE3hiT71hFDc_UVuMbIS3iPx_X9jpJD?usp=sharing) <br />
 
 
 # Overview
