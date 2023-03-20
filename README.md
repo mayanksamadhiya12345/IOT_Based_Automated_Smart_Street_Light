@@ -1,5 +1,9 @@
 # IOT_Based_Automated_Smart_Street_Light
 
+![Sensor](https://img.shields.io/badge/IR_Sensor-blueviolet)
+![Arduino](https://img.shields.io/badge/Arduino-red)
+![WiFi](https://img.shields.io/badge/WiFi-ESP8266-fcba03)
+
 [Live project link](https://drive.google.com/drive/folders/1tt953U-isnospAcdp96O6VJaSKLLGuL9?usp=sharing) <br />
 [Related Document](https://drive.google.com/drive/folders/1nTE3hiT71hFDc_UVuMbIS3iPx_X9jpJD?usp=sharing) <br />
 
